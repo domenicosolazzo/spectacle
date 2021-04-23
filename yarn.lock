@@ -4039,9 +4039,10 @@ math-expression-evaluator@^1.2.14:
   dependencies:
     lodash.indexof "^4.0.5"
 
-"mdast-react@git://github.com/jjt/mdast-react.git#2ea3bcd":
+mdast-react@jjt/mdast-react#2ea3bcd:
   version "0.3.0"
-  resolved "git://github.com/jjt/mdast-react.git#2ea3bcd"
+  uid "2ea3bcdb3ea04e00eecb8b275ba5ad7031d67a4f"
+  resolved "https://codeload.github.com/jjt/mdast-react/tar.gz/2ea3bcdb3ea04e00eecb8b275ba5ad7031d67a4f"
   dependencies:
     repeat-string "^1.5.2"
 
@@ -6465,8 +6466,8 @@ write@^0.2.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 yargs-parser@^4.2.0:
   version "4.2.0"
