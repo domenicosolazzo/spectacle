@@ -3968,8 +3968,8 @@ lodash.words@^4.0.0:
   resolved "https://registry.yarnpkg.com/lodash.words/-/lodash.words-4.2.0.tgz#5ecfeaf8ecf8acaa8e0c8386295f1993c9cf4036"
 
 lodash@^4.0.0, lodash@^4.12.0, lodash@^4.13.1, lodash@^4.14.0, lodash@^4.16.4, lodash@^4.2.0, lodash@^4.2.1, lodash@^4.3.0, lodash@^4.6.1:
-  version "4.17.2"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.2.tgz#34a3055babe04ce42467b607d700072c7ff6bf42"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 log-symbols@^1.0.2:
   version "1.0.2"
@@ -4039,9 +4039,10 @@ math-expression-evaluator@^1.2.14:
   dependencies:
     lodash.indexof "^4.0.5"
 
-"mdast-react@git://github.com/jjt/mdast-react.git#2ea3bcd":
+mdast-react@jjt/mdast-react#2ea3bcd:
   version "0.3.0"
-  resolved "git://github.com/jjt/mdast-react.git#2ea3bcd"
+  uid "2ea3bcdb3ea04e00eecb8b275ba5ad7031d67a4f"
+  resolved "https://codeload.github.com/jjt/mdast-react/tar.gz/2ea3bcdb3ea04e00eecb8b275ba5ad7031d67a4f"
   dependencies:
     repeat-string "^1.5.2"
 
